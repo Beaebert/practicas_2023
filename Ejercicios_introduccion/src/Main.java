@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Coche elCoche = new Coche();
         elCoche.sumarPuertas();
-        System.out.println(elCoche.puertas);
+        System.out.println("El numero de puertas es: " + elCoche.puertas);
         System.out.println (suma (20, 30, 5));
         }
 
